@@ -64,3 +64,5 @@ In accordance with the graphical and numerical data, the p-value from the t-test
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When examining the graphical, numerical, and inferential data from the given sample sets, there is abundant proof to suggest that the c52 cultivation method for growing cabbages is more apt in producing crops that exhibit consistently higher readings of Vitamin C.  
